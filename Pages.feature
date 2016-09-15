@@ -1,4 +1,3 @@
-@ST_986470514
 Feature: Pages routing
 
 Background: 
@@ -6,7 +5,7 @@ Background:
 Given I am in page "Default"
 And I am signed in
 
-@SC_965854350
+
 Scenario: Check Sign In/Out link on Profile page
 Then I can see path matches RegEx "[default]dashboard" in browser route
 
