@@ -1,7 +1,7 @@
-@ST_27883
+@ST_30171
 Feature: Pages
 
-@SC_112535
+@SC_120817
 Scenario: Check Sign In/Out link on Profile page
 Given I am in page "Default"
 And I am signed in
